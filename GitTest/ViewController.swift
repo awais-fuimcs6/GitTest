@@ -30,6 +30,10 @@ class ViewController: UIViewController {
     func divideNumber(){
         
     }
+    
+    func subtractNumber(){
+        
+    }
 
 }
 
