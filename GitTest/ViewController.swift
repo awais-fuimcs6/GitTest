@@ -22,6 +22,10 @@ class ViewController: UIViewController {
     func addNumbers(){
         
     }
+    
+    func multiplyNumber(){
+        
+    }
 
 }
 
