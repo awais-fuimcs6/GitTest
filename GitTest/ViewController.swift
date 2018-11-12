@@ -12,7 +12,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        let a = 30
+        let b = 39
+        
+        print("\(a+b)")
     }
 
 
